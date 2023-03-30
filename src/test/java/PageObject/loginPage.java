@@ -13,13 +13,21 @@ public class loginPage {
 		ldriver = rDriver;
 		PageFactory.initElements(rDriver , this);
 	}
-	
-	@FindBy(id="id_username")
+	@FindBy(id="SignInButton")
+	WebElement signinButton;
+	@FindBy(id="id_username1")
 	WebElement emailAddress;
-	@FindBy(id="id_password")
+	@FindBy(id="id_password1")
 	WebElement password;
-	@FindBy(id="login")
+	@FindBy(id="login1")
 	WebElement loginButton;
+	
+	
+	public void clickonSigninButton() {
+		
+		signinButton.click();
+	}
+	
 	
 	public void enterEmail(String email)
 	{

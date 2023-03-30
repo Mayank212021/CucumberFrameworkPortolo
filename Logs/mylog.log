@@ -1,63 +1,9 @@
-[INFO ] 2022-10-08 18:53:03.051 [main] stepDefinition - Chrome Browser is launched
-[INFO ] 2022-10-08 18:53:05.651 [main] stepDefinition - URL is opened
-[INFO ] 2022-10-08 18:53:05.927 [main] stepDefinition - Email is entered
-[INFO ] 2022-10-08 18:53:06.076 [main] stepDefinition - Password is entered
-[INFO ] 2022-10-08 18:53:10.915 [main] stepDefinition - Clicked on Login button
-[INFO ] 2022-10-08 18:53:10.943 [main] stepDefinition - Title is matched
-[INFO ] 2022-10-08 18:53:11.014 [main] stepDefinition - Clicked on LogOut button
-[INFO ] 2022-10-08 18:53:11.128 [main] stepDefinition - Browser is closed
-[INFO ] 2022-10-08 18:53:12.368 [main] stepDefinition - Chrome Browser is launched
-[INFO ] 2022-10-08 18:53:14.571 [main] stepDefinition - URL is opened
-[INFO ] 2022-10-08 18:53:14.810 [main] stepDefinition - Email is entered
-[INFO ] 2022-10-08 18:53:14.955 [main] stepDefinition - Password is entered
-[INFO ] 2022-10-08 18:53:18.520 [main] stepDefinition - Clicked on Login button
-[INFO ] 2022-10-08 18:53:18.535 [main] stepDefinition - Title is matched
-[INFO ] 2022-10-08 18:53:18.602 [main] stepDefinition - Clicked on LogOut button
-[INFO ] 2022-10-08 18:53:18.787 [main] stepDefinition - Browser is closed
-[INFO ] 2022-10-09 00:53:37.889 [TestNG-PoolService-0] stepDefinition - Chrome Browser is launched
-[INFO ] 2022-10-09 00:53:37.889 [TestNG-PoolService-1] stepDefinition - Chrome Browser is launched
-[INFO ] 2022-10-09 00:53:37.889 [TestNG-PoolService-2] stepDefinition - Chrome Browser is launched
-[INFO ] 2022-10-09 00:53:40.955 [TestNG-PoolService-0] stepDefinition - URL is opened
-[INFO ] 2022-10-09 00:53:41.328 [TestNG-PoolService-1] stepDefinition - URL is opened
-[INFO ] 2022-10-09 00:53:41.705 [TestNG-PoolService-2] stepDefinition - URL is opened
-[INFO ] 2022-10-09 00:53:41.968 [TestNG-PoolService-0] stepDefinition - Email is entered
-[INFO ] 2022-10-09 00:53:42.047 [TestNG-PoolService-1] stepDefinition - Email is entered
-[INFO ] 2022-10-09 00:53:42.089 [TestNG-PoolService-2] stepDefinition - Email is entered
-[INFO ] 2022-10-09 00:53:42.276 [TestNG-PoolService-0] stepDefinition - Password is entered
-[INFO ] 2022-10-09 00:53:42.313 [TestNG-PoolService-1] stepDefinition - Password is entered
-[INFO ] 2022-10-09 00:53:42.343 [TestNG-PoolService-2] stepDefinition - Password is entered
-[INFO ] 2022-10-09 00:53:43.245 [TestNG-PoolService-0] stepDefinition - Clicked on Login button
-[WARN ] 2022-10-09 00:53:43.449 [TestNG-PoolService-2] stepDefinition - Scenario Failed: Screenshot captured
-[WARN ] 2022-10-09 00:53:43.568 [TestNG-PoolService-0] stepDefinition - Scenario Failed: Screenshot captured
-[WARN ] 2022-10-09 00:53:43.710 [TestNG-PoolService-1] stepDefinition - Scenario Failed: Screenshot captured
-[INFO ] 2022-10-09 01:17:30.101 [main] stepDefinition - Chrome Browser is launched
-[INFO ] 2022-10-09 01:17:32.480 [main] stepDefinition - URL is opened
-[INFO ] 2022-10-09 01:17:32.603 [main] stepDefinition - Email is entered
-[INFO ] 2022-10-09 01:17:32.681 [main] stepDefinition - Password is entered
-[INFO ] 2022-10-09 01:17:34.972 [main] stepDefinition - Clicked on Login button
-[INFO ] 2022-10-09 01:17:34.982 [main] stepDefinition - Title is matched
-[INFO ] 2022-10-09 01:17:35.025 [main] stepDefinition - Clicked on LogOut button
-[INFO ] 2022-10-09 01:17:51.330 [main] stepDefinition - Browser is closed
-[INFO ] 2022-10-09 01:17:52.193 [main] stepDefinition - Chrome Browser is launched
-[INFO ] 2022-10-09 01:17:54.268 [main] stepDefinition - URL is opened
-[INFO ] 2022-10-09 01:17:54.373 [main] stepDefinition - Email is entered
-[INFO ] 2022-10-09 01:17:54.459 [main] stepDefinition - Password is entered
-[INFO ] 2022-10-09 01:17:56.604 [main] stepDefinition - Clicked on Login button
-[INFO ] 2022-10-09 01:17:56.610 [main] stepDefinition - Title is matched
-[INFO ] 2022-10-09 01:17:56.646 [main] stepDefinition - Clicked on LogOut button
-[INFO ] 2022-10-09 01:18:12.877 [main] stepDefinition - Browser is closed
-[INFO ] 2022-10-09 01:31:28.539 [main] stepDefinition - Chrome Browser is launched
-[INFO ] 2022-10-09 01:31:30.859 [main] stepDefinition - URL is opened
-[INFO ] 2022-10-09 01:31:31.026 [main] stepDefinition - Email is entered
-[INFO ] 2022-10-09 01:31:31.143 [main] stepDefinition - Password is entered
-[INFO ] 2022-10-09 01:31:33.344 [main] stepDefinition - Clicked on Login button
-[INFO ] 2022-10-09 01:31:33.356 [main] stepDefinition - Title is matched
-[INFO ] 2022-10-09 01:31:33.400 [main] stepDefinition - Clicked on LogOut button
-[INFO ] 2022-10-09 01:31:33.452 [main] stepDefinition - Browser is closed
-[INFO ] 2022-10-09 01:33:07.623 [main] stepDefinition - Chrome Browser is launched
-[INFO ] 2022-10-09 01:33:09.902 [main] stepDefinition - URL is opened
-[INFO ] 2022-10-09 01:33:10.031 [main] stepDefinition - Email is entered
-[INFO ] 2022-10-09 01:33:10.114 [main] stepDefinition - Password is entered
-[INFO ] 2022-10-09 01:33:12.498 [main] stepDefinition - Clicked on Login button
-[INFO ] 2022-10-09 01:33:12.508 [main] stepDefinition - Title is matched
-[INFO ] 2022-10-09 01:33:12.548 [main] stepDefinition - Clicked on LogOut button
+[INFO ] 2023-03-30 23:11:07.371 [main] stepDefinition - Chrome Browser is launched
+[INFO ] 2023-03-30 23:11:21.949 [main] stepDefinition - URL is opened
+[INFO ] 2023-03-30 23:11:22.008 [main] stepDefinition - Click on the Signin Button
+[INFO ] 2023-03-30 23:11:22.108 [main] stepDefinition - Email is entered
+[INFO ] 2023-03-30 23:11:22.204 [main] stepDefinition - Password is entered
+[INFO ] 2023-03-30 23:11:23.435 [main] stepDefinition - Clicked on Login button
+[INFO ] 2023-03-30 23:11:23.447 [main] stepDefinition - Title is matched
+[INFO ] 2023-03-30 23:11:23.488 [main] stepDefinition - Clicked on LogOut button
+[INFO ] 2023-03-30 23:11:23.550 [main] stepDefinition - Browser is closed

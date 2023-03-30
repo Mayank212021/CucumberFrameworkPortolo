@@ -17,11 +17,11 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 		glue = "StepDefinition", 
 		dryRun = false ,
 		monochrome = true,
-	    tags = "@regression or @sanity",
+	    tags = "@sanity",
 	    plugin = { "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:" , 
 	    		 "html:target/CucumberReports/report.html" ,
-	    		  "rerun:Failed_Scenarios/failed_Scenarios.txt" }
-		//plugin = {"pretty", "html:target/CucumberReports/report.html"}
+	    		  "rerun:Failed_Scenarios/failed_Scenarios.txt" } 
+		// plugin = {"pretty", "html:target/CucumberReports/report.html"} 
 		
 		
 		) 

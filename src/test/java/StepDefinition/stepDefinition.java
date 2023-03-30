@@ -76,6 +76,12 @@ public class stepDefinition extends BaseClass {
 		driver.get(url);
 		logger.info("URL is opened");
 	}
+	
+	@Then("Click on the Signin Button")
+	public void click_on_the_signin_button() {
+	    loginpage.clickonSigninButton();
+	    logger.info("Click on the Signin Button");
+	}
 
 	@When("User enters the Email as {string} and Password as {string}")
 	public void user_enters_the_email_as_and_password_as(String email, String password) {
